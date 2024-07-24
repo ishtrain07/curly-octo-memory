@@ -6,6 +6,7 @@ Fetch and parse articles from a URL.
 Generate concise summaries using a pre-trained NLP model.
 Adjust summary length dynamically based on the article length.
 User-friendly interface within a Google Colab notebook.
+
 Installation
 Clone the repository:
 
@@ -16,6 +17,7 @@ Open the Google Colab notebook:
 
 Go to Google Colab.
 Click on File > Upload Notebook.
+
 Upload the LLM_News_Summarizer.ipynb file from the cloned repository.
 Install dependencies:
 
@@ -27,6 +29,7 @@ Usage
 Run the Colab notebook:
 Follow the instructions in the notebook cells.
 You will be prompted to enter the URL of the news article you want to summarize.
+
 Example
 After running the notebook, you will be prompted to enter the URL of the news article. The notebook will fetch the article, generate a summary, and display the original length and summary length.
 
